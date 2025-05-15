@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannahxpaulus&label=Profile%20views&color=0e75b6&style=flat" alt="hannahxpaulus" /> </p>
 
-- 🔭 I’m currently working at **Statista**
+- 🔭 My most recent work experience was at **Statista** as a Student Research Assistant
 
 - 🌱 I’m currently learning **Data Management and Analytics in Industry 4.0**
 
